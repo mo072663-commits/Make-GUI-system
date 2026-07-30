@@ -1,2 +1,2 @@
-# Make-GUI-system
+# Weather-App-GUI
 
